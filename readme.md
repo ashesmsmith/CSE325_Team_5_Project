@@ -2,7 +2,12 @@
 
 ## Summary
 
-Our project will be a Savings Tracking App. Users will be able to create an account and set multiple savings goals. The user will be able to set their own name/description for the goal, the amount they want to save, and the date they want to complete the goal. They will be able to edit and delete the goals as needed. Each goal will track transactions, deposits, and withdrawals, associated with the goal. The transactions are also able to be edited or deleted as needed. Each transaction will have a date, amount, type, and description. If we have time, we also want to enable reminders and notifications for the goals. Reminders would have optional frequency to remind the user to save for that goal. Notifications would be for different stages of success with the goal such as half way, 10% to go, and so on. The target audience for the application is anyone who wants to have a way to better track their savings goals and may need extra motivation to do so.
+Our project is a Savings Tracking App that allows users to create an account and manage multiple savings goals. Users can assign a customer name and description to each goal, set a target amount, and specify a completion date. Goals can be edited or deleted at any time. Each goal tracks associated transactions, including deposits, and withdrawals, which can also be modified or deleted. Every transaction will include a date, amount, type, and description. 
+
+If time permits, we also plan to implement reminders and notifications to help users stay on track. Reminders can have customizable frequencies to encourage consistent saving, while notifications will alert users at key milestones, such as reaching 50% of the goal or being within 10% of completion.
+
+The target audience for the application includes anyone who wants a simple, organized way to track their savings goals and gain extra motivation to achieve them.
+
 
 ## Features
 
