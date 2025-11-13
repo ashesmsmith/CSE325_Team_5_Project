@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoalGrower", "GoalGrower.csproj", "{FE2C76E7-B89C-412A-080E-5A780908AF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2C76E7-B89C-412A-080E-5A780908AF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2C76E7-B89C-412A-080E-5A780908AF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2C76E7-B89C-412A-080E-5A780908AF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2C76E7-B89C-412A-080E-5A780908AF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5269FA66-4662-4809-A7A4-7E82A7003725}
+	EndGlobalSection
+EndGlobal

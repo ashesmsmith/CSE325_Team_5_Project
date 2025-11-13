@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VQq2VlX0hEM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ailen Mansilla\\Downloads\\BYU Idaho\\.NET class\\CSE325_Team_5_Project\\GoalGrower\\GoalGrower.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ailen Mansilla\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.0\\microsoft.entityframeworkcore.tools.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
