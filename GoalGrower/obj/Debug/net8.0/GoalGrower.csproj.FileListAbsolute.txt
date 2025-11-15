@@ -128,3 +128,5 @@ C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\Goa
 C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\GoalGrower\obj\Debug\net8.0\GoalGrower.pdb
 C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\GoalGrower\obj\Debug\net8.0\GoalGrower.genruntimeconfig.cache
 C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\GoalGrower\obj\Debug\net8.0\ref\GoalGrower.dll
+C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\GoalGrower\obj\Debug\net8.0\GoalGrower.RazorAssemblyInfo.cache
+C:\Users\Ailen Mansilla\Downloads\BYU Idaho\.NET class\CSE325_Team_5_Project\GoalGrower\obj\Debug\net8.0\GoalGrower.RazorAssemblyInfo.cs

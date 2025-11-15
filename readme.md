@@ -36,3 +36,9 @@ Each transaction will have a unique ID, name/description, amount, and date.
 - Ashley Smith
 - Ailen Mansilla
 - Phillip Mubbala
+
+
+## How to run this app
+- Make sure you are inside GoalGrower. Type 'cd GoalGrower' in console.
+- Then, run 'dotnet build'
+- run 'dotnet run'
